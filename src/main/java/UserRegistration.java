@@ -5,5 +5,6 @@ public class UserRegistration {
                 System.out.println(userFile.checkFirstName("Durga"));
                 System.out.println(userFile.checkLastName("Prasath"));
                 System.out.println(userFile.checkEmail("abc.xyz@bl.co.in"));
+                System.out.println(userFile.checkPhoneNumber("91 9919819801"));
         }
     }
