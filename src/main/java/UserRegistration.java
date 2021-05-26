@@ -3,5 +3,6 @@ public class UserRegistration {
             System.out.println("Welcome to User Registration Regex pattern");
                 UserFile userFile = new UserFile();
                 System.out.println(userFile.checkFirstName("Durga"));
+                System.out.println(userFile.checkLastName("Prasath"));
         }
     }
